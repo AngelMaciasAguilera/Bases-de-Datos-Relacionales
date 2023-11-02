@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Matriculas>
+    <Matricula />
+    <codigoAlumno>001</codigoAlumno>
+    <nombreAlumno>Antonio</nombreAlumno>
+    <codigoCurso>C002</codigoCurso>
+    <nombreCurso>Chino Intermedio</nombreCurso>
+    <notaMedia>1</notaMedia>
+    <Matricula />
+    <codigoAlumno>001</codigoAlumno>
+    <nombreAlumno>Antonio</nombreAlumno>
+    <codigoCurso>F001</codigoCurso>
+    <nombreCurso>Frances Basico</nombreCurso>
+    <notaMedia>3</notaMedia>
+    <Matricula />
+    <codigoAlumno>001</codigoAlumno>
+    <nombreAlumno>Antonio</nombreAlumno>
+    <codigoCurso>I001</codigoCurso>
+    <nombreCurso>Ingles Basico</nombreCurso>
+    <notaMedia>0</notaMedia>
+    <Matricula />
+    <codigoAlumno>001</codigoAlumno>
+    <nombreAlumno>Antonio</nombreAlumno>
+    <codigoCurso>I002</codigoCurso>
+    <nombreCurso>Ingles Intermedio</nombreCurso>
+    <notaMedia>0</notaMedia>
+    <Matricula />
+    <codigoAlumno>001</codigoAlumno>
+    <nombreAlumno>Antonio</nombreAlumno>
+    <codigoCurso>I003</codigoCurso>
+    <nombreCurso>Ingles Avanzado</nombreCurso>
+    <notaMedia>0</notaMedia>
+</Matriculas>

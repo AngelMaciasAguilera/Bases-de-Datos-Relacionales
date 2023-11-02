@@ -1,0 +1,1 @@
+El formato de fecha utilizado en la practica es: 'yyyy-mm-dd'(Ej: Fecha --> 2023-11-02 ) cualquier otro formato de fecha el programa lo tomara por erroneo y saltara un JOptionPane puesto por mi y aclarandole al usuario cual es el formato de fecha.
