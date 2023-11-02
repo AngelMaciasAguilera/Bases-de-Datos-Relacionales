@@ -180,6 +180,7 @@ public class gestionAlumnos extends javax.swing.JFrame {
         btXML = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Gestion de los Alumnos en la Academia de Lenguas");
 
         JT_Alumnos.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
